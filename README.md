@@ -8,3 +8,5 @@ NYPD Arrest Data(https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Ye
 The Clean java programs work for filtering data and removing missing value in the data.
 
 The Count java programs work for counting the number of records and the length of each records.
+
+The result: https://wc1589.medium.com/explore-dohmh-new-york-city-restaurant-inspection-results-and-nypd-arrest-data-5de93a696f69
